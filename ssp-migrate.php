@@ -5,7 +5,7 @@ Plugin URI:         https://github.com/ymauray/ssp-migrate
 GitHub Plugin URI:  https://github.com/ymauray/ssp-migrate
 GitHub Branch:      master
 Description:        Migrate from PowerPress to SSP
-Version:            1.0.0
+Version:            1.0.3
 Author:             Yannick Mauray
 Author URI:         https://frenchguy.ch
 Contributors:
