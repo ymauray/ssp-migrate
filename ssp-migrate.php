@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name:        SSP-Migrate
+Plugin Name:        SSP Migrate
 Plugin URI:         https://github.com/ymauray/ssp-migrate
 GitHub Plugin URI:  https://github.com/ymauray/ssp-migrate
 GitHub Branch:      master
